@@ -1,5 +1,5 @@
 # ResearchTools
-A collection of pratical tools for economics research
+A collection of practical tools for economics & finance research
 
 ```mermaid
 graph LR
