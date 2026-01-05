@@ -2,10 +2,9 @@
 A collection of pratical tools for economics research
 
 ```mermaid
-flowchart LR
+graph LR
   A[Research Tools Repo] --> B[Cheatsheets]
   A --> C[Playbooks]
-  A --> E[Templates]
 
   B --> B1[LaTeX]
   B --> B2[R]
